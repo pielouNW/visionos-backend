@@ -7,7 +7,7 @@
     "author": "Qwen",
     "fileName": "Qwen_Qwen3-4B-Q4_K_M.gguf",
     "downloadURL": "https://huggingface.co/NobodyWho/Qwen_Qwen3-4B-GGUF/resolve/main/Qwen_Qwen3-4B-Q4_K_M.gguf",
-    "tags": ["Thinking"]
+    "tags": ["Thinking", "Powerful"]
   },
   {
     "id": 2,
@@ -27,6 +27,6 @@
     "author": "Liquid AI",
     "fileName": "LFM2-700M-Q3_K_M.gguf",
     "downloadURL": "https://huggingface.co/unsloth/LFM2-700M-GGUF/resolve/main/LFM2-700M-Q3_K_M.gguf",
-    "tags": ["Tiny"]
+    "tags": ["Fast"]
   }
 ]
