@@ -1,7 +1,7 @@
 [
   {
     "modelId": 1,
-    "modelName": "Qwen3 4B Q4 K M",
+    "modelName": "Qwen3 • 4B",
     "modelSizeGB": 2.5,
     "parameterCountBillions": 4,
     "author": "Qwen",
@@ -11,17 +11,17 @@
   },
   {
     "modelId": 2,
-    "modelName": "Qwen3 0.6B Q4 K M",
+    "modelName": "Qwen3 • 0.6B",
     "modelSizeGB": 0.4,
     "parameterCountBillions": 4,
     "author": "Qwen",
     "fileName": "Qwen_Qwen3-0.6B-Q4_K_M.gguf",
     "downloadURL": "https://huggingface.co/NobodyWho/Qwen_Qwen3-0.6B-GGUF/resolve/main/Qwen_Qwen3-0.6B-Q4_K_M.gguf",
-    "tags": ["Fast"]
+    "tags": ["Fast", "Thinking"]
   },
   {
     "modelId": 3,
-    "modelName": "LFM2 700M Q3 K M",
+    "modelName": "LFM2 • 700M",
     "modelSizeGB": 0.4,
     "parameterCountBillions": 0.7,
     "author": "Liquid AI",
