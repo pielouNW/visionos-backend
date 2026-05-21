@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "modelName": "LFM2 • 700M",
+    "modelName": "LFM2 • 0.7B",
     "modelSizeGB": 0.4,
     "parameterCountBillions": 0.7,
     "author": "Liquid AI",
