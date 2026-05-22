@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "modelName": "Ternary Bonsai • 8B",
-    "modelSizeGB": 2.1,
+    "modelName": "Bonsai • 8B",
+    "modelSizeGB": 1.1,
     "parameterCountBillions": 8,
     "author": "Prism ML",
-    "fileName": "Ternary-Bonsai-8B-Q2_0.gguf",
-    "downloadURL": "https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf/resolve/main/Ternary-Bonsai-8B-Q2_0.gguf",
+    "fileName": "Bonsai-8B.gguf",
+    "downloadURL": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/Bonsai-8B.gguf",
     "tags": ["Dense"]
   },
   {
