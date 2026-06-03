@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "modelName": "Qwen3 • 0.6B",
+    "modelName": "Qwen3 • 4B",
     "modelSizeGB": 2.5,
     "parameterCountBillions": 4,
     "author": "Qwen",
