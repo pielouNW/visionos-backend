@@ -7,13 +7,13 @@
     "author": "Prism ML",
     "fileName": "Bonsai-8B.gguf",
     "downloadURL": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/Bonsai-8B.gguf",
-    "tags": ["Dense"]
+    "tags": ["Dense", "Powerful"]
   },
   {
     "id": 2,
     "modelName": "Qwen3 • 0.6B",
     "modelSizeGB": 0.4,
-    "parameterCountBillions": 4,
+    "parameterCountBillions": 0.6,
     "author": "Qwen",
     "fileName": "Qwen_Qwen3-0.6B-Q4_K_M.gguf",
     "downloadURL": "https://huggingface.co/NobodyWho/Qwen_Qwen3-0.6B-GGUF/resolve/main/Qwen_Qwen3-0.6B-Q4_K_M.gguf",
@@ -28,5 +28,15 @@
     "fileName": "LFM2-700M-Q3_K_M.gguf",
     "downloadURL": "https://huggingface.co/unsloth/LFM2-700M-GGUF/resolve/main/LFM2-700M-Q3_K_M.gguf",
     "tags": ["Fast"]
+  },
+  {
+    "id": 4,
+    "modelName": "Qwen3 • 0.6B",
+    "modelSizeGB": 2.5,
+    "parameterCountBillions": 4,
+    "author": "Qwen",
+    "fileName": "Qwen_Qwen3-4B-Q4_K_M.gguf",
+    "downloadURL": "https://huggingface.co/NobodyWho/Qwen_Qwen3-4B-GGUF/resolve/main/Qwen_Qwen3-4B-Q4_K_M.gguf",
+    "tags": ["Powerful", "Thinking"]
   }
 ]
